@@ -3,8 +3,7 @@
     "name": "request_type",
     "human_name": "Request Type",
     "type": "list",
-    "options_list":
-    [
+    "options_list": [
       {
         "name": "online",
         "value": "online"
@@ -27,8 +26,7 @@
   {
     "name": "account_category",
     "type": "list",
-    "options_list":
-    [
+    "options_list": [
       {
         "name": "Marketing",
         "value": "74201149-848e-4aed-a9ab-d09f20f4b078"
