@@ -1,0 +1,55 @@
+[
+  {
+    "name": "request_type",
+    "human_name": "Request Type",
+    "type": "list",
+    "options_list":
+    [
+      {
+        "name": "online",
+        "value": "online"
+      },
+      {
+        "name": "budget",
+        "value": "budget"
+      },
+      {
+        "name": "amazon",
+        "value": "amazon"
+      }
+    ]
+  },
+  {
+    "name": "amount",
+    "human_name": "Amount",
+    "type": "Numeric"
+  },
+  {
+    "name": "account_category",
+    "type": "list",
+    "options_list":
+    [
+      {
+        "name": "Marketing",
+        "value": "74201149-848e-4aed-a9ab-d09f20f4b078"
+      },
+      {
+        "name": "Kitchen",
+        "value": "fe424c5d-f121-40d6-a57a-e9feff38a659"
+      },
+      {
+        "name": "Engineering",
+        "value": "e815a864-e3a5-40d5-a38e-87c791a0d5ba"
+      },
+      {
+        "name": "Management",
+        "value": "99c9381f-1700-407b-aafb-63227985e183"
+      }
+    ]
+  },
+  {
+    "name": "user_name",
+    "human_name": "First Name",
+    "type": "String"
+  }
+]
